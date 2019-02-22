@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550850735 source:d:\baitaptuan2\baitaptuan2\bai3\caculatordate.cpp
+	"CaculatorDate.h"
+
+1550850720 d:\baitaptuan2\baitaptuan2\bai3\caculatordate.h
+
+1550850801 source:d:\baitaptuan2\baitaptuan2\bai3\main.cpp
+	<iostream>
+	"CaculatorDate.h"
+

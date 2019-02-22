@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550452561 source:c:\users\ccne\desktop\caculator\caculator.cpp
+	"caculator.h"
+
+1550451703 c:\users\ccne\desktop\caculator\caculator.h
+
+1550452684 source:c:\users\ccne\desktop\caculator\main.cpp
+	<iostream>
+	<stdlib.h>
+	"caculator.h"
+

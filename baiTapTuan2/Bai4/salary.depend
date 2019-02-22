@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550839959 source:d:\salary\main.cpp
+	<iostream>
+	"salary.h"
+	<iomanip>
+
+1550843185 d:\salary\salary.h
+
+1550841313 source:d:\salary\salary.cpp
+	"salary.h"
+
